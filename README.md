@@ -1,3 +1,4 @@
 # MyAutomationtest
 
-The Project is of Automation exercise with 
+The Project include several functionalities testing of Automation exercise page
+using page object model concept
